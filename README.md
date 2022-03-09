@@ -2,10 +2,9 @@
 
 
 
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 🌱 I’m currently learning DSA
+
 - 📫 How to reach me:<br/>
 <a href="mailto:anirudh08@hotmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
