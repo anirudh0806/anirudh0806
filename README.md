@@ -3,7 +3,9 @@
 
 
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently striving to become a better software engineer
+-  Programming in Java and C++
+-  Web Development in MERN Stack
 
 - 📫 How to reach me:<br/>
 <a href="mailto:anirudh08@hotmail.com" style="text-decoration:none">
